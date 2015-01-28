@@ -1,10 +1,10 @@
 # readme
 
-**Name: **Qing Luo 
+**Name:** Qing Luo 
 
-**Major: **Statistics 
+**Major:** Statistics 
 
-**Student Status: **Master of Statistics 
+**Student Status:** Master of Statistics 
 
 **A Data Analysis Problem:**
 
